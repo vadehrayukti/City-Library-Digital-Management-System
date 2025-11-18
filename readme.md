@@ -1,4 +1,4 @@
-# 📚 City Library Management System (Java)
+#  City Library Management System (Java)
 
 A Java-based **City Library Management System** demonstrating core Object-Oriented Programming and Exception Handling concepts. The project allows users to add books, issue books, return books, search books, and display the full library collection.
 
@@ -12,56 +12,33 @@ This system is menu-driven and terminal-based, built using:
 
 ---
 
-## 🚀 Features
+##  Features
 
-### ✔ Book Management
+###  Book Management
 - Add new books
 - Display all books
 - Search for a book by Book ID
 
-### ✔ Issue & Return System
+###  Issue & Return System
 - Issue a book to a user
 - Prevent issuing already issued books
 - Return issued books
 - Display issued status
 
-### ✔ Exception Handling
+###  Exception Handling
 - Custom Exception: `BookNotFoundException`
 - Validates:
   - Book ID existence
   - Book availability
   - Already returned books
 
-### ✔ Clean Exit Control
+###  Clean Exit Control
 - Handles invalid input using `try-catch`
 - Prevents system crash through safe error messages
 
 ---
 
-## 📂 Project Structure
-```
-├── Book.java
-├── BookNotFoundException.java
-└── LibrarySystem.java   (contains main menu)
-```
-
----
-
-## 🖥️ How to Run
-
-### 1. Compile
-```
-javac *.java
-```
-
-### 2. Run
-```
-java LibrarySystem
-```
-
----
-
-# 📤 Sample Output
+# Sample Output
 Here is a sample run of the program:
 
 ```
@@ -111,15 +88,5 @@ Status: Available
 ===== CITY LIBRARY SYSTEM =====
 Enter your choice: 6
 Exiting system. Thank you!
-```
 
----
-
-## 🤝 Contribution
-Pull requests are welcome! Feel free to improve the system.
-
----
-
-## 👩‍💻 Author
-**Yukti Vadehra**
 

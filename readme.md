@@ -2,7 +2,6 @@
 
 A Java-based **City Library Management System** demonstrating core Object-Oriented Programming and Exception Handling concepts. The project allows users to add books, issue books, return books, search books, and display the full library collection.
 
-## YUKTI VADEHRA, ROLL NO. 2401010128, BTECH CSE(CORE)
 This system is menu-driven and terminal-based, built using:
 
 - Classes & Objects
